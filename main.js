@@ -1,3 +1,3 @@
-let mensaje = "Hola gente de Ada Vyron"
+let mensaje = "Hola gente de tercero en Ada Vyron"
 
 console.log(mensaje);
